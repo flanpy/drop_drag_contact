@@ -1,6 +1,9 @@
 <?php
 
 /**
+ * Sample plugin to try out some hooks.
+ * This performs an automatic login if accessed from localhost
+ *
  * @license Master 1
  * @author Anthony TRIELLI. Yasmine SAIFI. Norhane KHALED
  */
