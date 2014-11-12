@@ -1,6 +1,5 @@
 {
     "name": "flanpy/drop_drag_contact",
-    "description" : "Add the ability to drop contacts to fields in mail composition",
     "type": "roundcube-plugin",
     "license": "GPL-3.0+",
     "repositories": [
