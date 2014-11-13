@@ -14,4 +14,4 @@ Add the ability to drag'n'drop contacts from adressbook to `CC/TO/etc` fields in
 It add `draggable` and `droppable` classes to desired elements of the mail compose window.
 
 ## ToDo :
-- [ ] Correct the animation bug
+- [ ] Fix the animation bug
